@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/valid-parentheses/description/
 #include<stdio.h>
 #define SIZE 10
 char stack[SIZE];
