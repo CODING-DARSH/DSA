@@ -30,5 +30,5 @@ return 0;
 
 //we use malloc because we just need to allocate 1 block not multiple a struct is a single block if we are thinking for s[i] then we might use calloc;
 
-// we use . in calloc becoz p[i] is one whole student block  p[i] is not a pointer 
+// we use . in calloc becoz p[i] is one whole student block      p[i] is not a pointer 
 // we use -> in malloc becoz p is itslef a pointer of student and in that pointer we are telling it to go to name or something using ->
