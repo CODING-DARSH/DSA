@@ -12,7 +12,7 @@ void enqueue(int num){
         r=-1;
     }
     else{
-        r++;
+        r++;    //r=0-->10 r=1-->20 r=2-->30 r=3-->40 r=4-->50   
         q[r]=num;
         if (r==0)
         {
